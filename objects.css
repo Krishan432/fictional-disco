@@ -1,0 +1,16 @@
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px!important;
+    width: 300px;
+    height: 100px;
+    font-style:italic;
+}
+body{
+    background-position:center;
+    background-size:cover;
+}
+canvas{
+    background-color:white;
+    border-radius:blue;
+    margin-top: 200px;
+}
